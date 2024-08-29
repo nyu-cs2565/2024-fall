@@ -1,0 +1,194 @@
+﻿-
+  Title: Week 1
+  Events: 
+    2023-09-05:
+      Label: Lecture
+      Topics:
+          - Introduction
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec01/01-handout.pdf"}
+
+-
+  Title: Week 2
+  Events:
+    2023-09-12:
+      Label: Lecture
+      Topics:
+        - Gradient descent
+        - Stochastic gradient descent
+        - Loss functions
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec02/02-handout.pdf"}
+      Materials:
+        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
+        - {"Gradient Descent Convergence": "https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf"}
+        - {"SGD Convergence": "https://www.cs.ubc.ca/~schmidtm/Courses/540-W19/L11.pdf"}
+
+-
+  Title: Week 3
+  Events:
+    2023-09-19:
+      Label: Lecture
+      Topics:
+          - Feature selection
+          - Regularization
+          - Lasso Optimization
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec03/03-handout.pdf"}
+
+-
+  Title: Week 4
+  Events:
+    2023-09-26:
+      Label: Lecture
+      Topics:
+          - Support Vector Machines
+          - Subgradient Descent
+          - SVM Dual
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec04/04-handout.pdf"}
+      Materials:
+       - {Geometric Derivation of SVMs: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Labs/3-SVM-Slides.pdf"}
+       - {SVM Insights from Duality: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/SVM-main-points.pdf"}
+       - {Rosenberg's notes on convex optimization: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Notes/convex-optimization.pdf"}
+       - {Weak duality theorem: "https://inst.eecs.berkeley.edu/~ee227a/fa10/login/l_dual_weak.html"}
+       - {Convergence proof of subgradient descent: "https://web.stanford.edu/class/ee392o/subgrad_method.pdf"} 
+       - {Convex optimization and Lagrangian duality tutorial slides: "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
+
+-
+  Title: Week 5
+  Events:
+    2023-10-03:
+      Label: Lecture
+      Topics:
+         - Feature Maps
+         - Kernel Trick
+         - Representer Theorem
+         - Maximum Likelihood Estimation
+         - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec05/05-handout.pdf"}
+      Materials:
+      References:
+        - SSBD Ch. 16
+        - {"A Survey of Kernels for Structured Data": "http://homepages.rpi.edu/~bennek/class/mmld/papers/p49-gartner.pdf"}
+
+-
+  Title: Week 7
+  Events:
+    2023-10-17:
+      Label: Lecture
+      Topics:
+        - Maximum Likelihood Estimation
+        - Generative and Discriminative Models
+        - Bayes Rule
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec06/06-handout.pdf"}
+      Materials:
+        # - {CitySense: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05b.citysense.pdf"}
+        - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
+        - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
+
+-
+  Title: Week 9
+  Events:
+    2023-10-31:
+      Label: Lecture
+      Topics:
+        - Bayesian Methods
+        - Bayesian Regression
+        - Multi-class
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec07/07-handout.pdf"}
+
+-
+  Title: Week 10
+  Events:
+    2023-11-07:
+      Label: Lecture
+      Topics:
+        - Linear Multiclass Predictors
+        - Structured Prediction
+        - Decision Trees
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec08/08-handout.pdf"}
+      Materials:
+        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
+        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
+        - {"Conditional Random Fields": "https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf"}
+      References:
+        - "SSBD Chapter 17"
+        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
+        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
+        - "JWHT 8.1 (Trees)"
+        - "HTF 9.2 (Trees)"
+-
+  Title: Week 11
+  Events:
+    2023-11-14:
+      Label: Lecture
+      Topics:
+        - Random Forests
+        - AdaBoost
+        - Gradient Boosting
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec09/09-handout.pdf"}
+      Materials:
+        - {"Intro to the Bootstrap": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
+        - {"Viola-Jones Face Detector": "https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf"}
+      References:
+        - "JWHT 8.1 (Trees)"
+        - "HTF 9.2 (Trees)"
+
+-
+  Title: Week 12
+  Events:
+    2023-11-21:
+      Label: Lecture
+      Topics:
+        - Feature Learning
+        - Backpropagation
+        - Neural Networks
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec10/10-handout.pdf"}
+      Materials:
+      References:
+        - {'Yes you should understand backprop (Karpathy)': "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b"}
+        - {'Challenges with backprop (Karpathy Lecture)': "https://youtu.be/gYpoJMlgyXA?t=13m44s"}
+        - {'Automatic Differentiation': "https://www.cs.toronto.edu/~duvenaud/talks/Johnson-Automatic-Differentiation.pdf"}
+        - {'How Does Learning Rate Decay Help Modern Neural Networks?': "https://arxiv.org/pdf/1908.01878.pdf"}
+
+-
+  Title: Week 13
+  Events:
+    2023-11-28:
+      Label: Lecture
+      Topics:
+         - Deep Learning
+         - Transformers
+         - Interpretability
+         - Adversarial Examples
+         - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec11/11-handout.pdf"}
+      Materials:
+         # - {"Discussion": "https://nyu-ds1003.github.io/mlcourse/lectures/lec12/discussion.pdf"}
+      References:
+        - {'Deep Learning (Goodfellow et al.)': "https://www.deeplearningbook.org/"}
+
+-
+  Title: Week 14
+  Events:
+    2023-12-05:
+      Label: Lecture
+      # Video: "https://youtu.be/tgCIAft_W24?t=48m48s"
+      Topics:
+        - k-Means
+        - Gaussian Mixture Models
+        - Expectiation Maximization
+        - Variational Autoencoders
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec12/12-handout.pdf"}
+      Materials:
+        #
+      References:
+        - "HTF, 13.2.1 (k-means)"
+        - "Bishop 9.2,9.3 (GMM/EM)"
+        - {"An Alternative to EM for GMM [Optional]": "https://arxiv.org/pdf/1706.03267.pdf"}
+- 
+  Title: Week 15
+  Events:
+    2023-12-12:
+      Label: Lecture
+      Topics:
+        - {"Final Course Project Presentation": "https://nyu-cs2565.github.io/mlcourse-public/2023-fall/lectures/lec13/combined.pdf"}
+      Materials:
+        #
+      References:
+        #
