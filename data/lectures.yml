@@ -5,3 +5,5 @@
       Label: Lecture
       Topics:
           - Introduction
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec01/01-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec01/01-scribble.pdf"}
