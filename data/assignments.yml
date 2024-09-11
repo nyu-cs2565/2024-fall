@@ -7,3 +7,11 @@ Submit link: "https://gradescope.com"
   Due: 2000-01-01
   PDF: {hw0.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw0_latex.pdf"}
   ZIP: {hw0.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw0.zip"}
+
+
+-
+  Label: Homework 1
+  Description: Linear Regression & Gradient Descent
+  Due: 2024-10-01
+  PDF: {hw1.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw1.pdf"}
+  ZIP: {hw1.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw1.zip"}

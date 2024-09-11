@@ -7,3 +7,19 @@
           - Introduction
           - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec01/01-handout.pdf"}
           - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec01/01-scribble.pdf"}
+
+-
+  Title: Week 2
+  Events:
+    2023-09-10:
+      Label: Lecture
+      Topics:
+        - Gradient descent
+        - Stochastic gradient descent
+        - Loss functions
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec02/02-handout.pdf"}
+        - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec02/02-scribble.pdf"}
+      Materials:
+        - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
+        - {"Gradient Descent Convergence": "https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf"}
+        - {"SGD Convergence": "https://www.cs.ubc.ca/~schmidtm/Courses/540-W19/L11.pdf"}
