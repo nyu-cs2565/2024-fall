@@ -11,7 +11,7 @@
 -
   Title: Week 2
   Events:
-    2023-09-10:
+    2024-09-10:
       Label: Lecture
       Topics:
         - Gradient descent
@@ -23,3 +23,16 @@
         - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
         - {"Gradient Descent Convergence": "https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf"}
         - {"SGD Convergence": "https://www.cs.ubc.ca/~schmidtm/Courses/540-W19/L11.pdf"}
+
+-
+  Title: Week 3
+  Events:
+    2024-09-17:
+      Label: Lecture
+      Topics:
+          - Feature selection
+          - Regularization
+          - Lasso Optimization
+          - Max margin classifiers
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec03/03-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec03/03-scribble.pdf"}
