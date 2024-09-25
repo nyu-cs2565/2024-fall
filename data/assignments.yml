@@ -15,3 +15,10 @@ Submit link: "https://gradescope.com"
   Due: 2024-10-01
   PDF: {hw1.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw1.pdf"}
   ZIP: {hw1.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw1.zip"}
+
+-
+  Label: Homework 2
+  Description: SVMs, Kernels & Logistic Regression
+  Due: 2024-10-15
+  PDF: {hw2.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw2.pdf"}
+  ZIP: {hw2.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw2.zip"}
