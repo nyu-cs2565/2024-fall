@@ -55,3 +55,17 @@
        # - {"Weak duality theorem": "https://inst.eecs.berkeley.edu/~ee227a/fa10/login/l_dual_weak.html"}
        - {"Convergence proof of subgradient descent": "https://web.stanford.edu/class/ee392o/subgrad_method.pdf"} 
        - {"Convex optimization and Lagrangian duality tutorial slides": "https://nyu-ds1003.github.io/mlcourse/2022/lectures/lec04/04.0.convex-optimization.pdf"}
+-
+  Title: Week 5
+  Events:
+    2024-10-01:
+      Label: Lecture
+      Topics:
+          - Kernels
+          - Probabilistic Methods
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec05/05-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec05/05-scribble.pdf"}
+      Materials:
+      References:
+        - SSBD Ch. 16
+        - {"A Survey of Kernels for Structured Data": "https://i2pc.es/coss/Docencia/SignalProcessingReviews/Gartner2003.pdf"}
