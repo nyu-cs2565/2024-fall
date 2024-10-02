@@ -21,7 +21,7 @@
         - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec02/02-scribble.pdf"}
       Materials:
         - {"Bottou's SGD Tricks": "http://leon.bottou.org/papers/bottou-tricks-2012"}
-        - {"Gradient Descent Convergence": "https://www.stat.cmu.edu/~ryantibs/convexopt-F13/scribes/lec6.pdf"}
+        - {"Gradient Descent Convergence": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec02/gradient_descent_converge.pdf"}
         - {"SGD Convergence": "https://www.cs.ubc.ca/~schmidtm/Courses/540-W19/L11.pdf"}
 
 -
