@@ -22,3 +22,10 @@ Submit link: "https://gradescope.com"
   Due: 2024-10-15
   PDF: {hw2.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw2.pdf"}
   ZIP: {hw2.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw2.zip"}
+
+-
+  Label: Homework 3
+  Description: Bayesian ML & Multiclass
+  Due: 2024-11-12
+  PDF: {hw3.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw3.pdf"}
+  ZIP: {hw3.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw3.zip"}
