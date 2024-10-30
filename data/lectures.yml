@@ -75,9 +75,23 @@
     2024-10-08:
       Label: Lecture
       Topics:
-          - Probabilistic Methods
+          - Maximum Likelihood Estimation
+          - Generative and Discriminative Models
+          - Bayes Rule
           - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec06/06-handout.pdf"}
           - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec06/06-scribble.pdf"}
       Materials:
         - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
         - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
+
+-
+  Title: Week 7
+  Events:
+    2024-10-29:
+      Label: Lecture
+      Topics:
+          - Baysian Methods
+          - Bayesian Regression
+          - Multi-class
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-scribble.pdf"}
