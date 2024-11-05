@@ -95,3 +95,21 @@
           - Multi-class
           - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-handout.pdf"}
           - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-scribble.pdf"}
+
+-
+  Title: Week 7
+  Events:
+    2024-10-29:
+      Label: Lecture
+      Topics:
+          - Baysian Methods
+          - Bayesian Regression
+          - Multi-class
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-scribble.pdf"}
+
+      Materials:
+          - {
+            "CRF": ""
+            "Structured Prediction": "https://www.cs.toronto.edu/~aschwing/ICCV_2015_DeepStructured_II_AlexSchwing.pdf"
+          }
