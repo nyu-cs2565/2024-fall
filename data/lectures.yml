@@ -85,7 +85,7 @@
         - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
 
 -
-  Title: Week 7
+  Title: Week 9
   Events:
     2024-10-29:
       Label: Lecture
@@ -95,21 +95,27 @@
           - Multi-class
           - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-handout.pdf"}
           - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-scribble.pdf"}
+      Materials:
+        - {"Multiclass Questions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check.pdf"}
+        - {"Multiclass Solutions": "https://davidrosenberg.github.io/mlcourse/Archive/2019/ConceptChecks/7-Lec-Check_sol.pdf"}
+      References:
+        - "SSBD Chapter 17"
+        - {In Defense of One-Vs-All Classification: "http://www.jmlr.org/papers/v5/rifkin04a.html"}
+        - {Reducing Multiclass to Binary: "http://www.jmlr.org/papers/volume1/allwein00a/allwein00a.pdf"}
 
 -
-  Title: Week 7
+  Title: Week 10
   Events:
-    2024-10-29:
+    2024-11-05:
       Label: Lecture
       Topics:
-          - Baysian Methods
-          - Bayesian Regression
-          - Multi-class
-          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-handout.pdf"}
-          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec07/07-scribble.pdf"}
-
+          - Structured Prediction
+          - Decision Trees
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec08/08-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec08/08-scribble.pdf"}
       Materials:
-          - {
-            "CRF": ""
-            "Structured Prediction": "https://www.cs.toronto.edu/~aschwing/ICCV_2015_DeepStructured_II_AlexSchwing.pdf"
-          }
+        - {"CRF Tutorial": "https://people.cs.umass.edu/~mccallum/papers/crf-tutorial.pdf"}
+        - {"Structured Prediction": "https://www.cs.toronto.edu/~aschwing/ICCV_2015_DeepStructured_II_AlexSchwing.pdf"}
+      References:
+        - "JWHT 8.1 (Trees)"
+        - "HTF 9.2 (Trees)"
