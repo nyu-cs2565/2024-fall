@@ -83,6 +83,16 @@
       Materials:
         - {Maximum Likelihood: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05c.MLE.pdf"}
         - {Conditional Probability Models: "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/06a.conditional-probability-models.pdf"}
+-
+  Title: Week 8
+  Events:
+    2024-10-22:
+      Label: Midterm
+      Topics:
+          - Midterm
+      Materials:
+        - {Exam: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/exams/fa24/midterm_fa2024.pdf"}
+        - {Solution: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/exams/fa24/midterm_fa2024_answers.pdf"}
 
 -
   Title: Week 9
