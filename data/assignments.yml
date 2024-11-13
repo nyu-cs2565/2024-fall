@@ -29,3 +29,10 @@ Submit link: "https://gradescope.com"
   Due: 2024-11-12
   PDF: {hw3.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw3.pdf"}
   ZIP: {hw3.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw3.zip"}
+
+-
+  Label: Homework 4
+  Description: Decision Trees, Boosting, and Neural Networks
+  Due: 2024-12-03
+  PDF: {hw4.pdf: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw4.pdf"}
+  ZIP: {hw4.zip: "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/assignments/hw4.zip"}
