@@ -129,3 +129,16 @@
       References:
         - "JWHT 8.1 (Trees)"
         - "HTF 9.2 (Trees)"
+-
+  Title: Week 11
+  Events:
+    2024-11-12:
+      Label: Lecture
+      Topics:
+          - Bagging, Random Forest
+          - Boosting
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec09/09-handout.pdf"}
+          # - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec09/09-scribble.pdf"}
+      Materials:
+        - {"Intro to the Bootstrap": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
+        - {"Viola-Jones Face Detector": "https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf"}
