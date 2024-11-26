@@ -138,7 +138,22 @@
           - Bagging, Random Forest
           - Boosting
           - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec09/09-handout.pdf"}
-          # - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec09/09-scribble.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec09/09-scribble.pdf"}
       Materials:
         - {"Intro to the Bootstrap": "https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/11a.bootstrap.pdf"}
         - {"Viola-Jones Face Detector": "https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf"}
+-
+  Title: Week 12
+  Events:
+    2024-11-19:
+      Label: Lecture
+      Topics:
+          - Feature Learning
+          - Neural Networks I
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec10/10-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec10/10-scribble.pdf"}
+      Materials:
+        - {'Yes you should understand backprop (Karpathy)': "https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b"}
+        - {'Challenges with backprop (Karpathy Lecture)': "https://youtu.be/gYpoJMlgyXA?t=13m44s"}
+        - {'Automatic Differentiation': "https://www.cs.toronto.edu/~duvenaud/talks/Johnson-Automatic-Differentiation.pdf"}
+        - {'How Does Learning Rate Decay Help Modern Neural Networks?': "https://arxiv.org/pdf/1908.01878.pdf"}
