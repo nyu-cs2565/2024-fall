@@ -157,3 +157,16 @@
         - {'Challenges with backprop (Karpathy Lecture)': "https://youtu.be/gYpoJMlgyXA?t=13m44s"}
         - {'Automatic Differentiation': "https://www.cs.toronto.edu/~duvenaud/talks/Johnson-Automatic-Differentiation.pdf"}
         - {'How Does Learning Rate Decay Help Modern Neural Networks?': "https://arxiv.org/pdf/1908.01878.pdf"}
+-
+  Title: Week 14
+  Events:
+    2024-11-26:
+      Label: Lecture
+      Topics:
+          - Neural Networks II
+          - Deep Learning
+          - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec11/11-handout.pdf"}
+          - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec11/11-scribble.pdf"}
+      # References:
+        # - "DL Ch. 8 (Optimization) Ch. 9 (CNNs) Ch. 10 (RNNs)"
+        # - {'Deep Learning (Goodfellow et al.)': "https://www.deeplearningbook.org/"}
