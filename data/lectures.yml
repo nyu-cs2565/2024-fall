@@ -158,7 +158,7 @@
         - {'Automatic Differentiation': "https://www.cs.toronto.edu/~duvenaud/talks/Johnson-Automatic-Differentiation.pdf"}
         - {'How Does Learning Rate Decay Help Modern Neural Networks?': "https://arxiv.org/pdf/1908.01878.pdf"}
 -
-  Title: Week 14
+  Title: Week 13
   Events:
     2024-11-26:
       Label: Lecture
@@ -167,6 +167,7 @@
           - Deep Learning
           - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec11/11-handout.pdf"}
           - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec11/11-scribble.pdf"}
-      # References:
-        # - "DL Ch. 8 (Optimization) Ch. 9 (CNNs) Ch. 10 (RNNs)"
-        # - {'Deep Learning (Goodfellow et al.)': "https://www.deeplearningbook.org/"}
+      References:
+        - "GBC Ch. 8 (Optimization)"
+        - "GBC Ch. 9 (CNNs)"
+        - "GBC Ch. 10 (RNNs)"
