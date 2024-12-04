@@ -171,3 +171,20 @@
         - "GBC Ch. 8 (Optimization)"
         - "GBC Ch. 9 (CNNs)"
         - "GBC Ch. 10 (RNNs)"
+-
+  Title: Week 14
+  Events:
+    2023-12-03:
+      Label: Lecture
+      Topics:
+        - k-Means, Gaussian Mixture Models
+        - EM, ELBO
+        - Variational Autoencoders
+        - {"Slides": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec12/12-handout.pdf"}
+        - {"Scribble": "https://nyu-cs2565.github.io/mlcourse-public/2024-fall/lectures/lec12/12-scribble.pdf"}
+      Materials:
+        #
+      References:
+        - "HTF, 13.2.1 (k-Means)"
+        - "Bishop 9.2,9.3 (GMM/EM)"
+        - {"An Alternative to EM for GMM [Optional]": "https://arxiv.org/pdf/1706.03267.pdf"}
